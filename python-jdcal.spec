@@ -6,7 +6,7 @@
 Summary:	Julian dates from proleptic Gregorian and Julian calendars
 Name:		python-%{module}
 Version:	1.4.1
-Release:	4
+Release:	5
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/jdcal/
